@@ -25,7 +25,7 @@ I'm currently studying Aerospace Engineering, splitting my time between coursewo
 
 Most of my repos are lab work and projects from university, plus some personal ones I keep around because they were fun to build — a few are pinned below.
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/Himalia13/42006-Technic-Model">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Himalia13&repo=42006-Technic-Model&theme=default" />
   </a>
@@ -38,6 +38,6 @@ Most of my repos are lab work and projects from university, plus some personal o
   <a href="https://github.com/Himalia13/Fluid-Mechanics-II-Laboratory-Sessions-from-Aerospace-Engineering">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Himalia13&repo=Fluid-Mechanics-II-Laboratory-Sessions-from-Aerospace-Engineering&theme=default" />
   </a>
-</p>
+</p> -->
 
 ---
