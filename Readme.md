@@ -16,10 +16,10 @@ I'm currently studying Aerospace Engineering, splitting my time between coursewo
 
 ### What I'm into
 
-- 🛩️ Aerospace engineering
-- 🧩 CAD modeling
-- 🎨 Raandom projects, just for fun
-- ➰ Math visualizations
+- Aerospace engineering
+- CAD modeling
+- Raandom projects, just for fun
+- Math visualizations
 
 ### A few things I've worked on
 
